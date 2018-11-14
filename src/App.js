@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Lenka Web
+            Lenka
           </a>
         </header>
       </div>
